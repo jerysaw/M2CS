@@ -8,7 +8,7 @@
 ### Test
 You can use the following command to test：
 > python test.py --stict PRETRAINED_WEIGHT --image_path IMG_PATH --mask_save_path SAVE_PATH
-> for example:
+For example:
 > python test.py --stict generator_pretrained.pth --image_path CUHK/xu100-source/ --mask_save_path result
 
 We provide a [pre-trained model](https://github.com/jerysaw/M2CS/releases/download/model/generator_pretrained.rar) for testing.
