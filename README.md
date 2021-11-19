@@ -8,6 +8,7 @@
 ### Test
 You can use the following command to test：
 > python test.py --stict PRETRAINED_WEIGHT --image_path IMG_PATH --mask_save_path SAVE_PATH
+
 For example:
 > python test.py --stict generator_pretrained.pth --image_path CUHK/xu100-source/ --mask_save_path result
 
