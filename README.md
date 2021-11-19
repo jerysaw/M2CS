@@ -10,3 +10,6 @@ You can use the following command to test：
 > python test.py --stict PRETRAINED_WEIGHT --image_path --image_path IMG_PATH --mask_save_path SAVE_PATH
 
 We provide a [pre-trained model](https://github.com/jerysaw/M2CS/releases/download/model/generator_pretrained.rar) for testing.
+
+### Test
+Since our article is being reviewed, it is not convenient to publish the training code now. If the article is received, we promise to upload the training code at the first time.
