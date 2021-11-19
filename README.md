@@ -9,4 +9,4 @@
 You can use the following command to test：
 > python test.py --stict PRETRAINED_WEIGHT --image_path --image_path IMG_PATH --mask_save_path SAVE_PATH
 
-We provide a [pre-trained model](https://github.com/jerysaw/M2CS/releases/download/model/generator_pretrained.rar) for test.
+We provide a [pre-trained model](https://github.com/jerysaw/M2CS/releases/download/model/generator_pretrained.rar) for testing.
