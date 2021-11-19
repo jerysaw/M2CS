@@ -1,1 +1,1 @@
-Put the pretrained discriminators model here
+## Put the pretrained discriminators model here.
