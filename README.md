@@ -2,7 +2,7 @@
 
 ## Datasets
 - `test_data`: The data for testing.
-  - `CUHK`: Contains 100 testing images of CUHK Dataset and it's GT.
+  - `[CUHK](https://github.com/jerysaw/M2CS/releases/download/model/DUT.rar)`: Contains 100 testing images of CUHK Dataset and it's GT.
   - `DUT`: Contains 500 testing images of DUT Dataset and it's GT.
 
 ### Test
