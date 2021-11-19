@@ -1,2 +1,1 @@
-CUHK
-DUT
+# Train dateset shoule be put here.
