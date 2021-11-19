@@ -1,3 +1,3 @@
 # M2CS
 
-python test.py --stict pretrained_model_path  --image_path dateset_path  --mask_save_path save_path
+python    test.py   --stict  model    --image_path   dateset   - -mask_save_path   save_path
