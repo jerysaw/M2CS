@@ -1,4 +1,5 @@
 # M2CS Pytorch
+pytorch+cuda11.2
 
 ## Datasets
 - `test_data`: The data for testing.
