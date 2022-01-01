@@ -16,4 +16,4 @@ For example:
 We provide a [pre-trained model](https://github.com/jerysaw/M2CS/releases/download/model/generator_pretrained.rar) for testing.
 
 ### Train
-Since our article is being reviewed, it is not suitable to publish the training code now. If the article is received, we promise to upload the training code at the first time.
+Since our article is being reviewed, it is not suitable to publish the training code now. If the paper is accepted, we promise to upload the training code at the first time.
