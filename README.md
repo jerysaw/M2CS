@@ -17,3 +17,13 @@ We provide a [pre-trained model](https://github.com/jerysaw/M2CS/releases/downlo
 
 ### Train
 Since our article is being reviewed, it is not suitable to publish the training code now. If the paper is accepted, we promise to upload the training code at the first time.
+
+### Eval
+You can use the following command to F-measure, MAE and Accuracy：
+> python eval.py --gt_path  <PATH TO GT> --mask_path <PATH TO PREDICT MASK>
+You can run S-measure-code/demo2.m to get S-measure.
+
+For example:
+> python test.py --stict generator_pretrained.pth --image_path CUHK/xu100-source/ --mask_save_path result
+
+We provide a [pre-trained model](https://github.com/jerysaw/M2CS/releases/download/model/generator_pretrained.rar) for testing.
